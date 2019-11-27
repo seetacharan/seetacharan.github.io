@@ -12,14 +12,14 @@ body {
 
 h1 {
 	font-size: 3em;
-	font-family: Federo; /*you have to change it in the html and the css*/
+	font-family: 'Federo', sans-serif; /*you have to change it in the html and the css*/
 	color: white;
 	padding: .25em;
 }
 
 p {
 	color: white;
-	font-family: Federo; /*change it here too*/
+	font-family: 'Federo', sans-serif; /*change it here too*/
 }
 
 a {
