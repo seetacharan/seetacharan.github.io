@@ -1,2 +1,1 @@
-# seetacharan.github.io
-Personal site
+# [Portfolio Site](https://seetacharan.github.io)
